@@ -9,29 +9,34 @@
 
         <div class="text-left px-4">
             <p class="mb-4">
-                Even when it's a stated goal, embracing diversity and inclusion
-                can be challenging. Some may see aspects of it as political or
-                as a threat to their identities. Others may be inspired but feel
-                unsure how to act on it.
+                <b>In Utah, we have a unique past and culture. </b>Many are
+                accustomed to being surrounded by people with similar beliefs,
+                backgrounds, ethnicities, and lifestyles. <b>Our demographics
+                are changing rapidly.</b>
             </p>
             <p class="mb-4">
-                I'm Heidi Petersen, an advocate and trainer. My goal is to
-                help people understand, appreciate, and practice developing
-                strength through diversity.
+                <b>This can be an exciting opportunity to grow and experience
+                <i>strength through diversity</i>.</b> It can also be a source
+                of uncertainty, fear, and mistakes.
             </p>
             <p class="mb-4">
-                I can help your group or organization (large or small) build on
-                the shared values that unite us.
-                This takes the form of presentations and workshops tailored
-                to your specific situation and objectives.
+                I'm Heidi Petersen, an advocate and trainer. <b>I
+                help people understand, appreciate, and practice
+                <i>strength through diversity</i></b> by building on shared values
+                for creating safe and welcoming spaces.
             </p>
             <p class="mb-4">
-                If you would like to discuss how we might do this together,
-                please <a href="/contact">contact me</a>.
+                This takes the form of <b>presentations and workshops tailored
+                to your specific situation and objectives</b>.
+            </p>
+            <p class="mb-4">
+                Whether your organization is large or small, <b>if you would
+                like to discuss how we might work together
+                please <a href="/contact">contact me</a></b>.
             </p>
             <p class="mb-4">
                 Regards,
-                <br>
+                <br><br>
                 <i>Heidi</i>
             </p>
         </div>
