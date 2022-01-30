@@ -38,7 +38,7 @@
                 </div>
                 </nav>
         </header>
-        <div class="container m-auto" style="width: 500px; max-width: 100%;">
+        <div class="container m-auto w-full">
             @yield('content')
         </div>
         <script>
