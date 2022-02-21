@@ -14,3 +14,9 @@ ul.list-disc {
     list-style: disc;
     list-style-position: inside;
 }
+
+.video-frame {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+}
