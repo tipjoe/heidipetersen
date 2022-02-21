@@ -6,7 +6,7 @@
             <span class="text-4xl" style="position: relative; top: -5px;">Through</span>
             Diversity
         </div>
-        <div class="video-frame text-center mt-8 margin-auto">
+        <div class="video-frame text-center mt-8 m-auto">
             <iframe width="560" height="315" class="max-w-full m-auto" src="https://www.youtube.com/embed/kys0_y4bDkI" title="Heidi Petersen - Strength Through Diversity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             {{-- <img src="/images/heidi.jpg" class="inline drop-shadow-xl rounded mb-2" /> --}}
             <br>
