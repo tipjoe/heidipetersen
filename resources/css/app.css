@@ -20,3 +20,8 @@ ul.list-disc {
     margin-right: auto;
     max-width: 90%;
 }
+
+#pageant-announcement {
+    border: 3px solid #1B4789;
+    background-color: #d9e4f3;
+}
