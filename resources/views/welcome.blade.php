@@ -18,6 +18,20 @@
             building on our shared values to promote safety and inclusion.
         </div>
 
+        <div class="mt-4 mb-4 px-4 text-center">Follow Heidi on Instagram or Facebook.</div>
+        <div class="social-links flex justify-center space-x-8 mb-8">
+            <div>
+                <a href="https://www.instagram.com/heidifordiversity" target="blank">
+                    <img src="/images/social-instagram-icon.png">
+                </a>
+            </div>
+            <div>
+                <a href="https://www.facebook.com/heidifordiversity" target="blank">
+                    <img src="/images/social-facebook-icon.png">
+                </a>
+            </div>
+        </div>
+
         <div id="pageant-announcement" class="m-4 p-4 rounded text-2xl">
             <strong style="font-size: 1.5rem; text-align:center; display: block; margin-bottom: 10px;">Mrs. Utah America Tickets Now Available</strong>
             <div style="font-size: .75em">

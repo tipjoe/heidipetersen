@@ -12,8 +12,8 @@
     </head>
     <body class="antialiased texture">
         <header>
-            <nav class="flex items-center justify-between flex-wrap p-6 bg-gradient-to-r from-blue-900 to-teal-600">
-                <div class="flex items-center flex-shrink-0 text-white mr-6">
+            <nav class="flex items-center justify-around flex-wrap px-6 py-4 bg-gradient-to-r from-blue-900 to-teal-600">
+                <div class="flex items-center flex-grow text-white mr-6">
                     <a href="/">
                             <img src="/images/diversity-star.gif" style="max-height: 24px; margin-right: 4px;" alt="Heidi for Diversity" />
                     </a>
@@ -26,8 +26,23 @@
                     <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
                     </button>
                 </div>
+
                 <div id="mobile-menu" class="hidden w-full block flex-grow lg:flex text-right lg:w-auto">
                     <div class="text-lg lg:flex-grow">
+
+                        <div class="social-links mt-6 sm:mt-0 sm:mb-2 mr-4 flex justify-end sm:flex-shrink space-x-4 ">
+                            <div>
+                                <a href="https://www.instagram.com/heidifordiversity" target="blank">
+                                    <img src="/images/social-instagram-white-icon.png" class="h-8">
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://www.facebook.com/heidifordiversity" target="blank">
+                                    <img src="/images/social-facebook-white-icon.png" class="h-8">
+                                </a>
+                            </div>
+                        </div>
+
                         <a href="/contact" class="block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4">
                            Contact
                         </a>
