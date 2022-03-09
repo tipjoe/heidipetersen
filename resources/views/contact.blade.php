@@ -10,7 +10,7 @@
             <iframe style="width: 100%; height: 870px;" src="https://docs.google.com/forms/d/e/1FAIpQLSc2TKc9lVHf5C6iMIIVCmZl3XbDHzBVBaafawcKXbFCLELfsg/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </div>
         <div class="text-center my-8">
-            <img src="/images/heidi.jpg" class="inline drop-shadow-xl rounded mb-2 h-48" />
+            <img src="/images/heidi.jpg?v=2" class="inline drop-shadow-xl rounded mb-2" style="height: 24rem;" />
             <br>
             <strong>Heidi Petersen</strong><br>
             Diversity Advocate and Trainer<br>

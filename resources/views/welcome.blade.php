@@ -82,5 +82,13 @@
                 Contact Me
             </a>
         </div>
+
+        <div class="text-center text-xl my-8">
+            <img src="/images/heidi.jpg?v=2" class="inline drop-shadow-xl rounded mb-2" style="height: 24rem;" />
+            <br>
+            <strong>Heidi Petersen</strong><br>
+            Diversity Advocate and Trainer<br>
+            Mrs. Sandy City, 2022
+        </div>
     </div>
 @endsection
