@@ -6,7 +6,7 @@
             <span class="text-4xl" style="position: relative; top: -5px;">Through</span>
             Diversity
         </div>
-        <div class="video-frame text-center mt-8 m-auto">
+        <div class="video-frame text-xl text-center mt-8 m-auto">
             <iframe width="560" height="315" class="max-w-full m-auto" src="https://www.youtube.com/embed/2zwbYYUvjl4" title="Heidi Petersen - Strength Through Diversity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <br>
             <strong>Heidi Petersen</strong><br>
@@ -48,12 +48,5 @@
             </a>
         </div>
 
-        <div class="text-center text-xl my-8">
-            <img src="/images/heidi.jpg?v=2" class="inline drop-shadow-xl rounded mb-2" style="height: 24rem;" />
-            <br>
-            <strong>Heidi Petersen</strong><br>
-            Diversity Advocate and Trainer<br>
-            Mrs. Sandy City, 2022
-        </div>
     </div>
 @endsection
