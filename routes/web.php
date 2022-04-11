@@ -24,3 +24,7 @@ Route::get('/contact', function () {
 Route::get('/diversity-and-inclusion-services', function () {
     return view('diversity-and-inclusion-services');
 });
+
+Route::get('/pageant', function () {
+    return view('pageant');
+});
