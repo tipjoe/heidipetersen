@@ -32,46 +32,7 @@
             </div>
         </div>
 
-        <div id="pageant-announcement" class="m-4 p-4 rounded text-2xl">
-            <strong style="font-size: 1.5rem; text-align:center; display: block; margin-bottom: 10px;">Mrs. Utah America Tickets Now Available</strong>
-            <div style="font-size: .75em">
-                <div class="my-2">
-                    <b>When:</b> Saturday, March 26th at 6:00 PM
-                    <br>
-                    <b>Where:</b> Participate in person at Weber State University (Ogden) or watch via Live Stream.
-                </div>
-
-                <div style="margin-top: 24px; text-align: center; background-color: #FDAA3A;">In Person Tickets</div>
-                Adults: $25 + fees
-                <br>
-                Children (3-12): $10 + fees
-                <br>
-                Children under 2: Free
-                <br>
-                (Use code <i>MUAP+Heidi</i> for $5 off)
-                <div class="my-4 text-center">
-                    <a href="https://weber.evenue.net/cgi-bin/ncommerce3/SEGetEventList?groupCode=PAG&linkID=weber-multi&shopperContext=&caller=&appCode=" target="_blank"
-                        class="bg-teal-700 hover:bg-teal-900 text-white font-bold py-2 px-4 rounded my-4">
-                        Purchase
-                    </a>
-                </div>
-
-
-                <div style="margin-top: 24px; text-align: center; background-color: #FDAA3A;">Live Stream Tickets</div>
-                Watch Online: $25
-                <div class="mt-4 mb-6 text-center">
-                    <a href="https://www.22ave.tv/utahamerica.html" target="_blank"
-                        class="bg-teal-700 hover:bg-teal-900 text-white font-bold py-2 px-4 rounded my-4">
-                        Purchase
-                    </a>
-                </div>
-                <div class="text-center" style="font-size: 1.2em;">
-                    <b>Thank you to my family, friends, and sponsors for your love and support!</b>
-                </div>
-            </div>
-        </div>
-
-        <div class="text-center mt-8 mb-6 text-2xl mx-2 sm:mx-0">
+        <div class="text-center mt-8 mb-6 text-2xl mx-4 sm:mx-0">
             <a href="/diversity-and-inclusion-services"
                 class="bg-teal-700 hover:bg-teal-900 text-white font-bold py-2 px-4 rounded my-4 block">
                 Diversity and Inclusion Services
@@ -80,6 +41,10 @@
             <a href="/contact"
                 class="bg-teal-700 hover:bg-teal-900 text-white font-bold py-2 px-4 rounded my-4 block">
                 Contact Me
+            </a>
+
+            <a href="/pageant" class="text-sm text-blue-600 visited:text-blue-800">
+                Mrs. Utah 2022 Pageant Info
             </a>
         </div>
     </div>
